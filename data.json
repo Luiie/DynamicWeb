@@ -1,0 +1,63 @@
+[
+    {
+      "id": 0,
+      "productName": "Clover",
+      "image": "🍀",
+      "color": "Green",
+      "quantity": "38 🍀",
+      "price": "6.50",
+      "seasonal": true,
+      "description": "Clovers are generally short-lived herbs and feature alternate compound leaves, usually with three toothed leaflets."
+    },
+    {
+      "id": 1,
+      "productName": "Sunflower",
+      "image": "🌻",
+      "color": "Yellow",
+      "quantity": "42 🌻",
+      "price": "5.00",
+      "seasonal": false,
+      "description": "Sunflowers have a large flower head, usually with a large, almost black central part which is made up of thousands of tiny florets that later become seeds set in a spiral pattern."
+    },
+    {
+      "id": 2,
+      "productName": "Hibiscus",
+      "image": "🌺",
+      "color": "Pink, Orange",
+      "quantity": "3 🌺",
+      "price": "5.50",
+      "seasonal": true,
+      "description": "The large, trumpet-shaped flowers have five or more petals, and come in a range of colors, including white, pink, orange, red, yellow, purple, and multi-hued patterns."
+    },
+    {
+      "id": 3,
+      "productName": "Rose",
+      "image": "🌹",
+      "color": "Red, Pink",
+      "nutrients": "Vitamin A, Vitamin K",
+      "quantity": "20 🌹",
+      "price": "3.00",
+      "seasonal": true,
+      "description": "A rose is either a woody perennial flowering plant of the genus Rosa in the family Rosaceae or the flower it bears."
+    },
+    {
+      "id": 4,
+      "productName": "Cherry",
+      "image": "🌸",
+      "color": "Pink",
+      "quantity": "2 🌸",
+      "price": "2.00",
+      "seasonal": false,
+      "description": "Cherry Blossom Trees bring billowy pink and white blooms in the spring."
+    },
+    {
+      "id": 5,
+      "productName": "Tulip",
+      "image": "🌷",
+      "color": "White, Yellow",
+      "quantity": "23 🌷",
+      "price": "2.00",
+      "seasonal": false,
+      "description": "Tulips are erect flowers with long, broad, parallel-veined leaves and a cup-shaped, single or double flower at the tip of the stem."
+    }
+  ]
